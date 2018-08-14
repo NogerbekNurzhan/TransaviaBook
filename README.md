@@ -23,7 +23,7 @@ API состоит из двух запросов:
 
 3) Установить все пакеты в виртуальное окружение:
 
-   `pip install requirements.txt`
+   `pip install -r requirements.txt`
 
 4) Запустить проект:
 
